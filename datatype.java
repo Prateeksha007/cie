@@ -4,7 +4,7 @@ public class datatype{
         float B = 5.5;
         double C = 2.5;
         Char D = 'P';
-        String E = "Rider";
+        String E = "sahana is mahek's bestie";
         Byte F = 5;
         Short G = 4;
 
